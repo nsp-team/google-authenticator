@@ -4,6 +4,8 @@ namespace NspTeam\Authenticator;
 
 use Exception;
 
+date_default_timezone_set('PRC');
+
 class GoogleAuthenticator
 {
 

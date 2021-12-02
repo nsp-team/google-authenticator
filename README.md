@@ -1,5 +1,10 @@
 # Summary
  This is a php library ，Google Authenticator One-time Password Algorithm in PHP
+> 
+1. 相对于验证码，安全很多；几乎是不会存在破解的方法
+2. 验证码有时候无法识别，不方便操作
+3. 一机一码，不会存在账号盗用的问题
+4. 动态验证，每30秒生产一个验证码，安全更加保障
 
 see: https://www.phpgangsta.de/2-faktor-authentifizierung-mit-dem-google-authenticator
 

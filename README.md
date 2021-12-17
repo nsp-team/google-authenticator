@@ -9,8 +9,8 @@
 see: https://www.phpgangsta.de/2-faktor-authentifizierung-mit-dem-google-authenticator
 
 # Installation
-This library is installable via `composer`
-`composer require nsp-team/simple-http`
+This library is installable via composer
+`composer require nsp-team/google-authenticator`
 
 # Usage
 ```injectablephp
